@@ -15,3 +15,5 @@ This project help the esp32 by giving a power and also run code with the USB por
 ### link (https://github.com/adrishanik/Esp-32-dev-board/blob/main/PCB/OBJ_PCB_ESP-32-Dev-Board_2026-11-04.zip)
 # Bill Of Materials 
 <img width="804" height="313" alt="quickshot_261104_135356" src="https://github.com/user-attachments/assets/bd1a5a6f-3cc6-499b-a516-58b725d217a9" />
+# MIT license
+https://github.com/adrishanik/Esp-32-dev-board/blob/main/LICENSE
