@@ -6,4 +6,5 @@ This project help the esp32 by giving a power and also run code with the USB por
 
 # 3d view 
 
-### link (
+### link (https://github.com/adrishanik/Esp-32-dev-board/blob/main/PCB/OBJ_PCB_ESP-32-Dev-Board_2026-11-04.zip)
+# Bill Of Materials 
